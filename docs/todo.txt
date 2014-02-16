@@ -1,0 +1,18 @@
+ipython
+
+import both vacancies and crime
+
+write both files back to new dicts with neighborhood.lower()
+fix delimiter?
+
+drop and re-import data into sqlite3
+
+write the joins on aggregate
+
+list all the queries you will do and verify they will work
+
+email jaimi because you won't have time tomorrow
+
+start a slide outline
+
+

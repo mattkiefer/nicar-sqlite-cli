@@ -1,0 +1,11 @@
+* todo
+# comment
+! common mistake
+? recommended reading
+$ protip
+^ footnote
+
+
+neighborhood case differences
+find/replace comma-space with space
+make a note to highlight this critical problem
