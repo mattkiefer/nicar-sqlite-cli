@@ -1,0 +1,4 @@
+nicar-sqlite-cli
+================
+
+.awesome
